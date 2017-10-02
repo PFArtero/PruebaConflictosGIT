@@ -1,7 +1,3 @@
-Primera modificació de PabloArtero
-<<<<<<< HEAD
-
+Primera modificaciÃ³ de PabloArtero
 1-PArtero
-=======
 2-PabloArtero
->>>>>>> e703b67bb2703b92299a54debf2ddcefa3053515
